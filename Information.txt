@@ -1,0 +1,3 @@
+Data-> Renderer->UI
+
+So we will not directly create a view using CSS . We will use JavaScript for that purpose and depending on the data inputs we give it to renderer function which on action create the required UI. 
